@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/node": "20.8.2",
-    "prettier": "2.3.2",
+    "prettier": "2.8.8",
     "test": "3.3.0",
     "typescript": "4.9.5"
   },
