@@ -5,7 +5,7 @@
   "description": "generates a cryptographically strong random uid",
   "repository": "vercel/uid-promise",
   "types": "lib/types/index.d.ts",
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@9.12.2",
   "engines": {
     "node": ">=16"
   },
